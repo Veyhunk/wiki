@@ -1,8 +1,8 @@
 简悦 SimpRead - 帮助中心
 =======
 如果在使用过程中遇到了问题，请浏览：
-- [站点编辑器]()
-- [自定义主题]()
+- [站点编辑器](https://github.com/Kenshin/simpread/wiki/%E7%AB%99%E7%82%B9%E7%BC%96%E8%BE%91%E5%99%A8)
+- [自定义主题](https://github.com/Kenshin/simpread/wiki/%E8%87%AA%E5%AE%9A%E4%B9%89%E4%B8%BB%E9%A2%98)
 - [离线安装](https://github.com/Kenshin/simpread/wiki/离线安装)
 - [关于简悦背后的故事](http://www.jianshu.com/p/2917e4e0169d)
 
