@@ -8,7 +8,7 @@
 - [自定义主题](https://github.com/Kenshin/simpread/wiki/%E8%87%AA%E5%AE%9A%E4%B9%89%E4%B8%BB%E9%A2%98)
 
 如果在使用过程中遇到了问题，请浏览：
-- [离线安装](https://github.com/Kenshin/simpread/wiki/离线安装)
+- [离线安装](https://github.com/Kenshin/simpread/wiki/%E5%85%A5%E9%97%A8%E6%8C%87%E5%8D%97%EF%BC%88-%E6%93%8D%E4%BD%9C%E6%8C%87%E5%BC%95-%EF%BC%89#%E7%A6%BB%E7%BA%BF%E5%AE%89%E8%A3%85)
 - [简悦的开发故事](http://www.jianshu.com/p/2917e4e0169d)
 
 如果有关于 `简悦` 的任何建议，请告诉我：
