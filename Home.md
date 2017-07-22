@@ -13,6 +13,7 @@
 
 如果有关于 `简悦` 的任何建议，请告诉我：
 - [邮件](kenshin@ksria.com)
+- [Telegram](https://t.me/simpread)
 - [微博](http://weibo.com/23784148)
 - 提交问题到 [Github](https://github.com/Kenshin/simpread/issues/new)
 - 提交问题到 [Webstore](https://chrome.google.com/webstore/detail/simpread-reader-view/ijllcpnolfcooahcekpamkbidhejabll/support)
