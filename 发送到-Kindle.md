@@ -25,10 +25,12 @@
   ![Imgur](http://i.imgur.com/m406zSC.png)
 
 ### 使用：
-> 由于转码使用了简悦自己的后台服务，所以请确保可以访问 https://simpread.herokuapp.com
+- 由于转码使用了简悦自己的后台服务，所以请确保可以访问 https://simpread.herokuapp.com
 
-- 打开 `阅读模式` 后，通过控制栏进行发送（下图），当转码成功后，会自动打开 fivefilters.org 发送页面。  
+- 打开 `阅读模式` 后，通过控制栏进行发送，如下图
   ![Imgur](http://i.imgur.com/v49dYXs.png)
+
+- 当转码成功后，会自动打开 fivefilters.org 发送页面。
 
 ### 注意：
 - 生成后的页面，如 `https://simpread.herokuapp.com/view/20170823xxxxxx.html` 并不会长久存在，超时后会自动删除。
