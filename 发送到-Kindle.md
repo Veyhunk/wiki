@@ -27,7 +27,7 @@
 ### 使用：
 > 由于转码使用了简悦自己的后台服务，所以请确保可以访问 https://simpread.herokuapp.com
 
-- 打开 `阅读模式` 后，通过控制栏进行发送（下图），当转码成功后，会自动打开 fivefilters.org 发送页面，如 [测试页面](http://fivefilters.org/kindle-it/send.php?url=https://simpread.herokuapp.com/view/demo.htm)
+- 打开 `阅读模式` 后，通过控制栏进行发送（下图），当转码成功后，会自动打开 fivefilters.org 发送页面。  
   ![Imgur](http://i.imgur.com/v49dYXs.png)
 
 ### 注意：
