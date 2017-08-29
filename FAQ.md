@@ -1,5 +1,6 @@
 目录
 ---
+- [FAQ](https://github.com/Kenshin/simpread/wiki/faq)
 - [离线安装](https://github.com/Kenshin/simpread/wiki/入门指南（-操作指引-）#离线安装)
 - [排除列表](https://github.com/Kenshin/simpread/wiki/入门指南（-操作指引-）#排除列表)
 - [快捷键](https://github.com/Kenshin/simpread/wiki/入门指南（-操作指引-）#快捷键)
