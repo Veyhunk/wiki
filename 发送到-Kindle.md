@@ -13,7 +13,7 @@
 ***
 
 ### 效果：
-![Imgur](http://i.imgur.com/V03cuqJ.gif)
+![Imgur](http://i.imgur.com/Ah6myuP.gif)
 
 ### 含义：
 此功能是将由简悦优化后的 `阅读模式` 的页面发送到 Kindle 上，而非（转换前）原文。
