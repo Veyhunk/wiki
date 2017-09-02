@@ -16,7 +16,7 @@
 ### 一览：
 > 如果下图无法显示请看 [Send to Kindle](http://ojec5ddd5.bkt.clouddn.com/send%20to%20kindle.gif)
 
-![Imgur](http://ojec5ddd5.bkt.clouddn.com/send%20to%20kindle.gif)
+![Send to Kindle](http://ojec5ddd5.bkt.clouddn.com/send%20to%20kindle.gif)
 
 ### 含义：
 此功能是将由简悦优化后的 `阅读模式` 的页面发送到 Kindle 上，而非（转换前）原文。
