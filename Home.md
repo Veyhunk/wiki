@@ -1,7 +1,9 @@
 简悦 SimpRead - 帮助中心
 =======
 
-目录：
+目录
+---
+
 - [新手入门](https://github.com/Kenshin/simpread/wiki/入门指南（-操作指引-）)
 
 - [常见问题](https://github.com/Kenshin/simpread/wiki/faq)
@@ -12,12 +14,15 @@
 - [授权服务](https://github.com/Kenshin/simpread/wiki/%E6%8E%88%E6%9D%83%E6%9C%8D%E5%8A%A1)
 - [体验版](https://github.com/Kenshin/simpread/wiki/%E6%B5%8B%E8%AF%95%E7%89%88)
 
-如果在使用过程中遇到了问题，请浏览：
-- [离线安装](https://github.com/Kenshin/simpread/wiki/%E5%85%A5%E9%97%A8%E6%8C%87%E5%8D%97%EF%BC%88-%E6%93%8D%E4%BD%9C%E6%8C%87%E5%BC%95-%EF%BC%89#%E7%A6%BB%E7%BA%BF%E5%AE%89%E8%A3%85)
 
-- [简悦的开发故事](http://www.jianshu.com/p/2917e4e0169d)
+其它
+---
+- [简悦的开发故事](https://sspai.com/post/39491)
+- [简悦 1.0.1](https://sspai.com/post/39831)
 
-如果有关于 `简悦` 的任何建议，请告诉我：
+联络方式
+---
+
 - [邮件](kenshin@ksria.com)
 
 - [Telegram](https://t.me/simpread)
