@@ -73,3 +73,15 @@
 测试版通道
 ---
 测试版下载说明，请移步 [这里](https://github.com/Kenshin/simpread/wiki/%E6%B5%8B%E8%AF%95%E7%89%88)
+
+自定义样式
+---
+关于授权服务的FAQ，请 [访问这里](https://github.com/Kenshin/simpread/wiki/%E8%87%AA%E5%AE%9A%E4%B9%89%E6%A0%B7%E5%BC%8F)
+
+授权服务
+---
+关于授权服务的FAQ，请 [访问这里](https://github.com/Kenshin/simpread/wiki/%E6%8E%88%E6%9D%83%E6%9C%8D%E5%8A%A1)
+
+发送到 Kindle
+---
+关于 发送到 Kindle 的FAQ，请 [访问这里](https://github.com/Kenshin/simpread/wiki/%E5%8F%91%E9%80%81%E5%88%B0-Kindle)
