@@ -6,6 +6,7 @@
 - [一览](https://github.com/Kenshin/simpread/wiki/%E5%8F%91%E9%80%81%E5%88%B0-Kindle/_edit#%E6%95%88%E6%9E%9C)
 - [含义](https://github.com/Kenshin/simpread/wiki/%E5%8F%91%E9%80%81%E5%88%B0-Kindle#%E5%90%AB%E4%B9%89)
 - [第三方服务](https://github.com/Kenshin/simpread/wiki/%E5%8F%91%E9%80%81%E5%88%B0-Kindle#%E7%AC%AC%E4%B8%89%E6%96%B9%E6%9C%8D%E5%8A%A1)
+
 - [配置](https://github.com/Kenshin/simpread/wiki/%E5%8F%91%E9%80%81%E5%88%B0-Kindle#%E9%85%8D%E7%BD%AE)
 - [使用](https://github.com/Kenshin/simpread/wiki/%E5%8F%91%E9%80%81%E5%88%B0-Kindle#%E4%BD%BF%E7%94%A8)
 - [注意](https://github.com/Kenshin/simpread/wiki/%E5%8F%91%E9%80%81%E5%88%B0-Kindle#%E6%B3%A8%E6%84%8F)
