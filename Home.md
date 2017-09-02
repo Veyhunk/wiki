@@ -14,10 +14,12 @@
 
 如果在使用过程中遇到了问题，请浏览：
 - [离线安装](https://github.com/Kenshin/simpread/wiki/%E5%85%A5%E9%97%A8%E6%8C%87%E5%8D%97%EF%BC%88-%E6%93%8D%E4%BD%9C%E6%8C%87%E5%BC%95-%EF%BC%89#%E7%A6%BB%E7%BA%BF%E5%AE%89%E8%A3%85)
+
 - [简悦的开发故事](http://www.jianshu.com/p/2917e4e0169d)
 
 如果有关于 `简悦` 的任何建议，请告诉我：
 - [邮件](kenshin@ksria.com)
+
 - [Telegram](https://t.me/simpread)
 - [微博](http://weibo.com/23784148)
 - 提交问题到 [Github](https://github.com/Kenshin/simpread/issues/new)
