@@ -30,6 +30,9 @@
   - 双击此文件，按照弹出的提示点击 `继续` → `安装（输入电脑密码）`
   - 重启浏览器即可！
 
+> 在线下载 Chrome Webstore 方式：
+- 进入 https://chrome-extension-downloader.com/ 复制 `https://chrome.google.com/webstore/detail/simpread-reader-view/ijllcpnolfcooahcekpamkbidhejabll` 到输入框，下载后拖拽到 `chrome://extensions` 即可。
+
 排除列表
 ---
 
