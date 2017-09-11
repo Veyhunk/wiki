@@ -4,9 +4,9 @@
 - [排除列表](https://github.com/Kenshin/simpread/wiki/faq#排除列表)
 - [快捷键](https://github.com/Kenshin/simpread/wiki/faq#快捷键)
 
-- [阅读模式无法正常](https://github.com/Kenshin/simpread/wiki/%E5%85%A5%E9%97%A8%E6%8C%87%E5%8D%97%EF%BC%88-%E6%93%8D%E4%BD%9C%E6%8C%87%E5%BC%95-%EF%BC%89#%E6%9F%90%E4%BA%9B%E7%AB%99%E7%82%B9%E5%B7%B2%E7%BB%8F%E9%80%82%E9%85%8D%E4%BA%86%E9%98%85%E8%AF%BB%E6%A8%A1%E5%BC%8F%E4%BD%86%E6%97%A0%E6%B3%95%E6%AD%A3%E5%B8%B8%E6%98%BE%E7%A4%BA%E7%9A%84%E9%97%AE%E9%A2%98)
+- [阅读模式无法正常](https://github.com/Kenshin/simpread/wiki/faq#%E6%9F%90%E4%BA%9B%E7%AB%99%E7%82%B9%E5%B7%B2%E7%BB%8F%E9%80%82%E9%85%8D%E4%BA%86%E9%98%85%E8%AF%BB%E6%A8%A1%E5%BC%8F%E4%BD%86%E6%97%A0%E6%B3%95%E6%AD%A3%E5%B8%B8%E6%98%BE%E7%A4%BA%E7%9A%84%E9%97%AE%E9%A2%98)
 - [阅读模式/快捷键的冲突](https://github.com/Kenshin/simpread/wiki/FAQ#%E9%98%85%E8%AF%BB%E6%A8%A1%E5%BC%8F%E5%BF%AB%E6%8D%B7%E9%94%AE%E7%9A%84%E5%86%B2%E7%AA%81)
-- [测试版通道](https://github.com/Kenshin/simpread/wiki/%E5%85%A5%E9%97%A8%E6%8C%87%E5%8D%97%EF%BC%88-%E6%93%8D%E4%BD%9C%E6%8C%87%E5%BC%95-%EF%BC%89#%E6%B5%8B%E8%AF%95%E7%89%88%E9%80%9A%E9%81%93)
+- [测试版通道](https://github.com/Kenshin/simpread/wiki/faq#%E6%B5%8B%E8%AF%95%E7%89%88%E9%80%9A%E9%81%93)
 - [自定义样式](https://github.com/Kenshin/simpread/wiki/FAQ#%E8%87%AA%E5%AE%9A%E4%B9%89%E6%A0%B7%E5%BC%8F)
 - [授权服务](https://github.com/Kenshin/simpread/wiki/FAQ#%E6%8E%88%E6%9D%83%E6%9C%8D%E5%8A%A1)
 - [发送到 Kindle](https://github.com/Kenshin/simpread/wiki/FAQ#%E5%8F%91%E9%80%81%E5%88%B0-kindle)
