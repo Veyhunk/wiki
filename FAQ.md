@@ -74,6 +74,15 @@
 
 目前这种情况的解决办法是将此 URL 加入到 [排除列表](https://github.com/Kenshin/simpread/wiki/入门指南（-操作指引-）#排除列表) 或者 [报告给我](https://github.com/Kenshin/simpread/issues/new)。
 
+阅读模式/快捷键的冲突
+---
+> 由于简悦的 `阅读模式` 为了防止 `CSS 干扰`，所以并没有在 `<body>` 而是在 `<html>` 节点下，所以基于判断 `<body>` 节点下的扩展在阅读模式下都不好用，这些扩展包括：
+- 划词搜索类（主要是翻译类为主）
+- 快捷键类，如 `cVim` `vimium` 等；
+
+解决方案：
+> 目前没有什么太好的解决方案，建议退出 阅读模式 后再使用它们；
+
 测试版通道
 ---
 测试版下载说明，请移步 [这里](https://github.com/Kenshin/simpread/wiki/%E6%B5%8B%E8%AF%95%E7%89%88)
