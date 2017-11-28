@@ -33,10 +33,16 @@
 > 在线下载 Chrome Webstore 方式：
 - 进入 https://chrome-extension-downloader.com/ 复制 `https://chrome.google.com/webstore/detail/simpread-reader-view/ijllcpnolfcooahcekpamkbidhejabll` 到输入框，下载后拖拽到 `chrome://extensions` 即可。
 
+白名单
+---
+> 含义跟黑名单相反，当关闭 `如果当前页面适配阅读模式，是否自动进入阅读模式？` 选项后会启动此功能，加入到列表中的 URL 将自动进入阅读模式。（ 但不影响手动操作 ）
+
+![Imgur](https://i.imgur.com/DgQYFsn.png)
+
 排除列表
 ---
 
-> 当选中 `如果当前页面适配阅读模式，是否自动进入阅读模式？` 会启动此功能，加入到列表中的 URL 将不会自动进入阅读模式。（ 但不影响手动操作 ）
+> 即：黑名单。当选中 `如果当前页面适配阅读模式，是否自动进入阅读模式？` 会启动此功能，加入到列表中的 URL 将不会自动进入阅读模式。（ 但不影响手动操作 ）
 ---
 ![Imgur](http://i.imgur.com/dyROEBi.png) → 右键 → 选项 → 高级设定 → 排除列表` ，如图：
 ![Imgur](http://i.imgur.com/CdoZOkUl.png)
