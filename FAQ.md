@@ -38,6 +38,11 @@
 ---
 > 含义跟黑名单相反，当关闭 `如果当前页面适配阅读模式，是否自动进入阅读模式？` 选项后会启动此功能，加入到列表中的 URL 将自动进入阅读模式。（ 但不影响手动操作 ）
 
+添加规则：
+- 支持 URL 如： http://www.jianshu.com/p/2917e4e0169d
+- 支持 [minimatch](https://github.com/isaacs/minimatch) 方案的 URL，如：`http://*.cnbeta.com/articles/*/*.htm`
+- 支持 [站点编辑器 的 name](https://github.com/Kenshin/simpread/wiki/站点编辑器#对应字段)，如：  
+
 ![Imgur](https://i.imgur.com/DgQYFsn.png)
 
 排除列表
