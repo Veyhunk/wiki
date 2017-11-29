@@ -61,21 +61,7 @@
 
 快捷键
 ---
-> 简悦支持快捷键，但是由于与 cVim 等扩展有些冲突，所以并没有指出。
-
-- 全局支持 `ESC` 退出；  
-  包括：`聚焦模式` `阅读模式` 以及 它们的 `设定对话框`；
-
-- 可编辑的快捷键：
-   - `聚焦模式`（默认为 `A S` ) 
-   - `阅读模式` （默认为 `双击 A` ) 
-
-- 不可编辑的快捷键：
-  > 只限 `阅读模式`，包括：`字体类型` `字体大小` `版面布局`，如图：  
-  
-  ![Imgur](http://i.imgur.com/KgIhnoVl.png)  
-  ![Imgur](http://i.imgur.com/Y7vCUFll.png)  
-  ![Imgur](http://i.imgur.com/ebbvkIDl.png) 
+关于 快捷键支持 的FAQ，请 [访问这里](https://github.com/Kenshin/simpread/wiki/快捷键)
 
 某些站点已经适配了阅读模式，但无法正常显示的问题
 ---
