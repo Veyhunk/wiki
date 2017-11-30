@@ -18,11 +18,15 @@
 - [体验版](https://github.com/Kenshin/simpread/wiki/%E6%B5%8B%E8%AF%95%E7%89%88)
 
 
-其它
+简悦的开发故事
 ---
-- [简悦的开发故事](https://sspai.com/post/39491)
+- [简悦 1.0.0，沉浸式阅读的 Chrome 扩展](https://sspai.com/post/39491)
 
-- [简悦 1.0.1](https://sspai.com/post/39831)
+- [简悦 1.0.1，虽是一小步，却带来了大家期盼的功能](https://sspai.com/post/39831)
+
+- [简悦 1.0.3，让你离知识再近一步](https://sspai.com/post/40754)
+
+- [简悦 1.0.4，可支持任意页面生成阅读模式](https://sspai.com/post/41454)
 
 联络方式
 ---
