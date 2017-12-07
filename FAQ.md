@@ -2,7 +2,7 @@
 ---
 - [离线安装](https://github.com/Kenshin/simpread/wiki/faq#离线安装)
 - [白名单](https://github.com/Kenshin/simpread/wiki/faq#白名单)
-- [排除列表](https://github.com/Kenshin/simpread/wiki/faq#排除列表)
+- [黑名单（排除列表）](https://github.com/Kenshin/simpread/wiki/faq#排除列表)
 - [快捷键](https://github.com/Kenshin/simpread/wiki/faq#快捷键)
 
 - [阅读模式无法正常](https://github.com/Kenshin/simpread/wiki/faq#%E6%9F%90%E4%BA%9B%E7%AB%99%E7%82%B9%E5%B7%B2%E7%BB%8F%E9%80%82%E9%85%8D%E4%BA%86%E9%98%85%E8%AF%BB%E6%A8%A1%E5%BC%8F%E4%BD%86%E6%97%A0%E6%B3%95%E6%AD%A3%E5%B8%B8%E6%98%BE%E7%A4%BA%E7%9A%84%E9%97%AE%E9%A2%98)
