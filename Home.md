@@ -1,7 +1,7 @@
 简悦 SimpRead - 帮助中心
 =======
 
-目录
+文档中心
 ---
 
 - [新手入门](https://github.com/Kenshin/simpread/wiki/入门指南（-操作指引-）)
