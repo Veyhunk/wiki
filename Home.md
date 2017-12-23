@@ -4,8 +4,6 @@
 目录
 ---
 
-***
-
 - [新手入门](https://github.com/Kenshin/simpread/wiki/入门指南（-操作指引-）)
 - [常见问题](https://github.com/Kenshin/simpread/wiki/faq)
 - [快捷键](https://github.com/Kenshin/simpread/wiki/%E5%BF%AB%E6%8D%B7%E9%94%AE)
