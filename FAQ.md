@@ -104,5 +104,5 @@
 
 无法删除当前站点
 ---
-通过 `站点编辑器` 只能删除自行添加的站点（即：本地适配站点），`官方源与第三方源` 的站点都无法删除。详细请看 [站点适配源](https://github.com/Kenshin/simpread/wiki/%E7%AB%99%E7%82%B9%E9%80%82%E9%85%8D%E6%BA%90)
+通过 `站点编辑器` 只能删除自行添加的站点（即：本地适配站点），`官方源与第三方源` 的站点都无法删除。详细请看 [站点适配源](https://github.com/Kenshin/simpread/wiki/%E7%AB%99%E7%82%B9%E9%80%82%E9%85%8D%E6%BA%90)  
 如果需要删除 `官方源与第三方源` 请使用 [站点管理器](https://github.com/Kenshin/simpread/wiki/%E7%AB%99%E7%82%B9%E7%AE%A1%E7%90%86%E5%99%A8)
