@@ -7,9 +7,10 @@
 - [新手入门](https://github.com/Kenshin/simpread/wiki/入门指南（-操作指引-）)
 - [常见问题](https://github.com/Kenshin/simpread/wiki/faq)
 - [快捷键](https://github.com/Kenshin/simpread/wiki/%E5%BF%AB%E6%8D%B7%E9%94%AE)
+- [体验版](https://github.com/Kenshin/simpread/wiki/%E6%B5%8B%E8%AF%95%E7%89%88)
 
-***
-
+基础功能
+---
 - [聚焦模式](https://github.com/Kenshin/simpread/wiki/%E8%81%9A%E7%84%A6%E6%A8%A1%E5%BC%8F)
 - [阅读模式](https://github.com/Kenshin/simpread/wiki/阅读模式/)
 - [论坛类页面及分页](https://github.com/Kenshin/simpread/wiki/%E8%AE%BA%E5%9D%9B%E7%B1%BB%E9%A1%B5%E9%9D%A2%E5%8F%8A%E5%88%86%E9%A1%B5)
@@ -17,23 +18,21 @@
 - [临时阅读模式](https://github.com/Kenshin/simpread/wiki/临时阅读模式)
 - [TXT 阅读器](https://github.com/Kenshin/simpread/wiki/TXT-%E9%98%85%E8%AF%BB%E5%99%A8)
 
-***
-
+辅助功能
+---
 - [自定义样式](https://github.com/Kenshin/simpread/wiki/%E8%87%AA%E5%AE%9A%E4%B9%89%E6%A0%B7%E5%BC%8F)
 - [发送到生产力工具](https://github.com/Kenshin/simpread/wiki/%E6%8E%88%E6%9D%83%E6%9C%8D%E5%8A%A1)
 - [发送到 Kindle](https://github.com/Kenshin/simpread/wiki/%E5%8F%91%E9%80%81%E5%88%B0-Kindle)
 - [发送到 Epub](https://github.com/Kenshin/simpread/wiki/%E5%8F%91%E9%80%81%E5%88%B0-Kindle)
 
-***
-
+进阶功能
+---
 - [站点编辑器](https://github.com/Kenshin/simpread/wiki/%E7%AB%99%E7%82%B9%E7%BC%96%E8%BE%91%E5%99%A8)
 - [站点管理器](https://github.com/Kenshin/simpread/wiki/%E7%AB%99%E7%82%B9%E7%AE%A1%E7%90%86%E5%99%A8)
 - [站点适配源](https://github.com/Kenshin/simpread/wiki/%E7%AB%99%E7%82%B9%E9%80%82%E9%85%8D%E6%BA%90)
 - [站点适配列表](https://github.com/Kenshin/simpread/wiki/%E9%80%82%E9%85%8D%E7%AB%99%E7%82%B9%E5%88%97%E8%A1%A8)
 
 ***
-
-- [体验版](https://github.com/Kenshin/simpread/wiki/%E6%B5%8B%E8%AF%95%E7%89%88)
 
 简悦的开发故事
 ---
