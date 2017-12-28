@@ -6,7 +6,6 @@
 
 - [新手入门](https://github.com/Kenshin/simpread/wiki/入门指南（-操作指引-）)
 - [常见问题](https://github.com/Kenshin/simpread/wiki/faq)
-- [快捷键](https://github.com/Kenshin/simpread/wiki/%E5%BF%AB%E6%8D%B7%E9%94%AE)
 - [体验版](https://github.com/Kenshin/simpread/wiki/%E6%B5%8B%E8%AF%95%E7%89%88)
 
 基础功能
@@ -20,6 +19,7 @@
 
 辅助功能
 ---
+- [快捷键](https://github.com/Kenshin/simpread/wiki/%E5%BF%AB%E6%8D%B7%E9%94%AE)
 - [自定义样式](https://github.com/Kenshin/simpread/wiki/%E8%87%AA%E5%AE%9A%E4%B9%89%E6%A0%B7%E5%BC%8F)
 - [发送到生产力工具](https://github.com/Kenshin/simpread/wiki/%E6%8E%88%E6%9D%83%E6%9C%8D%E5%8A%A1)
 - [发送到 Kindle](https://github.com/Kenshin/simpread/wiki/%E5%8F%91%E9%80%81%E5%88%B0-Kindle)
