@@ -10,6 +10,8 @@
 
 ***
 
+- [聚焦模式](https://github.com/Kenshin/simpread/wiki/%E8%81%9A%E7%84%A6%E6%A8%A1%E5%BC%8F)
+- [阅读模式](https://github.com/Kenshin/simpread/wiki/阅读模式/)
 - [论坛类页面及分页](https://github.com/Kenshin/simpread/wiki/%E8%AE%BA%E5%9D%9B%E7%B1%BB%E9%A1%B5%E9%9D%A2%E5%8F%8A%E5%88%86%E9%A1%B5)
 - [主动适配阅读模式](https://github.com/Kenshin/simpread/wiki/%E4%B8%BB%E5%8A%A8%E9%80%82%E9%85%8D%E9%98%85%E8%AF%BB%E6%A8%A1%E5%BC%8F)
 - [临时阅读模式](https://github.com/Kenshin/simpread/wiki/临时阅读模式)
